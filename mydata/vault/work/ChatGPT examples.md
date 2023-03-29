@@ -1,0 +1,4 @@
+- create a powershell script that will convert from "FLUJIelY;[B1-F4-3E-97-AB-04]" to "FLUJIelY,B1:F4:3E:97:AB:04" using regex
+- secret santa
+- slide deck
+- 

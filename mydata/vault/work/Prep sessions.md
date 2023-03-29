@@ -1,0 +1,26 @@
+To do
+- [x] add references for Graph
+	- Sandy
+	- Adam
+	- ...
+- [x] talk to Donna about her session
+	- how much do we need to talk about setting up graph and powershell?
+- [ ] build custom report
+	- [x] simple pie chart on devices managed by co-mgmt, intune, cm
+	- [ ] OS version per cumulative update (chart) (parse)
+	- [ ] weekly report on blue screens (from endpoint analytics)
+- [ ] add custom inventory data
+	- [ ] pro-active remediation
+	- [ ] monitoring agent
+- [ ] use cmpivot query for cumulative updates
+- [ ] include PBI reports on compliance
+	- cfr Kim 
+	- OS version per CU
+		- show 5-10 minutes 101
+- [ ] Make note of
+	- where to store Log Analytics
+		- Intune diagnostic settings
+	- licensing requirements
+	- Azure Monitor workbooks
+	- Intune Data warehouse
+	- Azure price calculator

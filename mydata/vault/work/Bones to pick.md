@@ -1,0 +1,21 @@
+- no autologon to Outlook, Teams, OneDrive (Office)
+	- Personal files not ready
+	- "C:\temp\Office\AVDGIPOOL-OfficeConfig.xml"
+- Windows Mail icon on taskbar
+- customized start menu?
+- Apps outdated
+- crackling audio
+- winget install 
+- Teams audio device "A"
+  ![[Pasted image 20230116112953.png]]
+- User ID is not displayed in Explorer
+- Edge favourites are not synced
+- ![[Pasted image 20230117150251.png]]![[Pasted image 20230117150301.png]]
+  ![[Pasted image 20230127140159.png]]
+- ![[Pasted image 20230118115034.png]]
+- Camera doesn't work on multiple Teams video calls in a row
+	- black camera screen
+	- Teams freezes
+	- need to reconnect camera
+- Pinned taskbar items do not persist across sessions. Taskbar personalization, like removing search bar, does persist. Pinned Start items also persist.
+- no access to dev or acc tenants (certificate/firewall issue)

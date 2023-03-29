@@ -1,0 +1,32 @@
+- [ ] Azure account
+	- [ ] MFA
+	- [ ] O365 license 
+	- [ ] Outlook signature
+	- [ ] MCP ID
+	- [ ] LinkedIn banner
+	- [ ] PIM
+- [ ] Demolab
+	- [ ] user account
+- [ ] Autopilot
+- [ ] Harvest/Forecast
+	- [ ] Forecast
+	- [ ] Time registration
+	- [ ] Expenses
+- [ ] SD Worx
+	- [ ] Request vacation
+- [ ] Sickness
+- [ ] Edge profile
+- [ ] LastPass
+- [ ] Exams
+	- [ ] learning dashboard/paths
+	- [ ] book exams
+		- [ ] Pearson Vue
+		- [ ] Mindhub
+- [ ] CDX transform
+- [ ] myvisualstudio.com
+- [ ] De Willy!
+- [ ] Kit
+	- [ ] rugzak/tas
+	- [ ] laptop
+	- [ ] muis
+	- [ ] headset
