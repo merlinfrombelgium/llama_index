@@ -1,0 +1,4 @@
+- [Partner Integrations - Universal Print | Microsoft Learn](https://learn.microsoft.com/en-us/universal-print/fundamentals/universal-print-partner-integrations)
+- [Ricoh is adding support for Universal Print to MFP devices - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/universal-print-blog/ricoh-is-adding-support-for-universal-print-to-mfp-devices/ba-p/2151934)
+- [Learn how to configure and publish Microsoft Universal Print for Windows 365 cloud PCs to simplify the way you manage your printers today | christiaanbrinkhoff.com - Sharing Cloud and Virtualization Knowledge](https://www.christiaanbrinkhoff.com/2021/01/15/modernize-your-print-server-environment-learn-how-to-implement-and-deploy-with-mem-new-cloud-service-universal-print-to-simplify-the-way-you-manage-your-printers/)
+- 
